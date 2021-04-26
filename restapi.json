@@ -5,7 +5,7 @@
   "description": "restAPI",
   "newInstancePrefix": "restAPI",
   "icon": "https://sharadasowmya14.github.io/SACInputPasswordWidget/restapi.png",
-  "vendor": "Ferry Djaja",
+  "vendor": "SAP",
   "eula": "",
   "license": "",
   "imports": [ "input-controls" ],
