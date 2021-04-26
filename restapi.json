@@ -4,7 +4,7 @@
   "name": "restAPI",
   "description": "restAPI",
   "newInstancePrefix": "restAPI",
-  "icon": "https://sharadasowmya14.github.io/SACInputPasswordWidget/restapi.png",
+  "icon": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi.png",
   "vendor": "SAP",
   "eula": "",
   "license": "",
@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-restapi",
-      "url": "https://sharadasowmya14.github.io/SACInputPasswordWidget/restapi.js",
+      "url": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-restapi-aps",
-      "url": "https://sharadasowmya14.github.io/SACInputPasswordWidget/restapi_aps.js",
+      "url": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi_aps.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
