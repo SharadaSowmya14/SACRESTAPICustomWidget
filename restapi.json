@@ -71,7 +71,7 @@
       "description": "Get the score",
       "parameters": [
       ],
-      "body": "return this;"
+      "body": "return this.navItems;"
     },
     "setScore": {
       "description": "Set the score",
