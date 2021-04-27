@@ -34,7 +34,7 @@
     "restapiurl": {
       "type": "string",
       "description": "The REST API URL",
-      "default": "http://localhost:3000/api/v1"
+      "default": "http://localhost:3000/api/v1/navigation/navItems"
     },
     "name": {
       "type": "string",
@@ -71,7 +71,7 @@
       "description": "Get the score",
       "parameters": [
       ],
-      "body": "return 'The status check complete with 200.';"
+      "body": "return this;"
     },
     "setScore": {
       "description": "Set the score",
