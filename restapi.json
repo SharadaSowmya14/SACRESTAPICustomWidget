@@ -34,7 +34,7 @@
     "restapiurl": {
       "type": "string",
       "description": "The REST API URL",
-      "default": "http://localhost:3000/"
+      "default": "http://localhost:3000/api/v1"
     },
     "name": {
       "type": "string",
