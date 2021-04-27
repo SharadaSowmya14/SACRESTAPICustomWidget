@@ -42,7 +42,7 @@
       "default": ""
     },
     "navItems": {
-      "type": "array",
+      "type": "string",
       "description": "navItems",
       "default": ""
     }
