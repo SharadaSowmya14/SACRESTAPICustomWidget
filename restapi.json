@@ -1,9 +1,9 @@
 {
-  "id": "com.fd.djaja.sap.sac.restapi",
+  "id": "com.fd.djaja.sap.sac.restapiget",
   "version": "0.0.2",
-  "name": "restAPI",
+  "name": "restAPI-getItems",
   "description": "restAPI",
-  "newInstancePrefix": "restAPI",
+  "newInstancePrefix": "restAPI-restAPI",
   "icon": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi.png",
   "vendor": "SAP",
   "eula": "",
@@ -12,14 +12,14 @@
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-fd-djaja-sap-sac-restapi",
+      "tag": "com-fd-djaja-sap-sac-restapiget",
       "url": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
-      "tag": "com-fd-djaja-sap-sac-restapi-aps",
+      "tag": "com-fd-djaja-sap-sac-restapiget-aps",
       "url": "https://sharadasowmya14.github.io/SACRESTAPICustomWidget/restapi_aps.js",
       "integrity": "",
       "ignoreIntegrity": true
