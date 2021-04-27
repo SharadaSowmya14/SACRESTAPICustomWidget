@@ -71,7 +71,7 @@
       "description": "Get the score",
       "parameters": [
       ],
-      "body": "return this.score;"
+      "body": "return 'The status check complete with 200.';"
     },
     "setScore": {
       "description": "Set the score",
