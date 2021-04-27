@@ -41,9 +41,9 @@
       "description": "widget name",
       "default": ""
     },
-    "score": {
-      "type": "string",
-      "description": "score",
+    "navItems": {
+      "type": "array",
+      "description": "navItems",
       "default": ""
     }
   },
@@ -72,17 +72,6 @@
       "parameters": [
       ],
       "body": "return this.navItems;"
-    },
-    "setScore": {
-      "description": "Set the score",
-      "parameters": [
-        {
-          "name": "value",
-          "type": "string",
-          "description": "The new score"
-        }
-      ],
-      "body": "this.score = value;"
     },
     "getName": {
       "returnType": "string",
