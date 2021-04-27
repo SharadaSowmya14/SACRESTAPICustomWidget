@@ -240,8 +240,8 @@
 
                     onButtonPress: function(oEvent) {
 
-                        var partnernumber = oView.byId("input").getValue(); //"0004540866"
-                        console.log(partnernumber);
+                        /* var partnernumber = oView.byId("input").getValue(); //"0004540866"
+                        console.log(partnernumber); */
 
                         $.ajax({
                             url: restAPIURL,
@@ -286,10 +286,10 @@
 
             if (that_._designMode) {
                 oView.byId("buttonId").setEnabled(false);
-                oView.byId("input").setEnabled(false);
+                //oView.byId("input").setEnabled(false);
             } else {
                 oView.byId("buttonId").setEnabled(true);
-                oView.byId("input").setEnabled(true);
+                //oView.byId("input").setEnabled(true);
             }
         });
     }
